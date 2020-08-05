@@ -1,0 +1,11 @@
+.table {
+  text-align: center;
+  margin: auto;
+}
+.td {
+  font-family: "URW Chancery L", cursive;
+  width: 29px;
+  margin: 8px;
+  text-align: center;
+  color: #999;
+}

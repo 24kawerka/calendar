@@ -1,0 +1,14 @@
+.td {
+  font-family: "Dosis", sans-serif;
+  width: 25px;
+  height: 25px;
+  line-height: 25px;
+  margin: -2px 0 0 -2px;
+  border-radius: 50%;
+  border: 2px solid #29323f;
+  text-align: center;
+  transition: all 0.2s linear;
+}
+.table {
+  margin: auto;
+}
